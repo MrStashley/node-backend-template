@@ -1,3 +1,3 @@
-# Node backend tempalte
+# Node backend template
 
 node backend template
